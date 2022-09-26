@@ -1,7 +1,4 @@
 # Terms of Use for Alexa Skills
-
----
-
 ## General
 
 These Terms of Use are an agreement between you (the “user”) and Loopero (Luiz Miranda) (“us” or “we”). Before using any of our Alexa Skills (“our skills”), please read this agreement and our [Alexa Skills Privacy Policy](https://github.com/luizmiranda7/loopero/blob/main/privacy_policy_alexa_skills.md) as well as the [Alexa Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740) by Amazon Digital Services LLC (with its affiliates, “Amazon”).

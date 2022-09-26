@@ -1,7 +1,5 @@
 # Privacy Policy for Alexa Skills
 
----
-
 This privacy policy describes how Loopero (Luiz Miranda) (“us” or “we”) protects your (“you”, “the user”) privacy 
 and your data. Before using any of our Alexa Skills (“our skills”), please read this policy and our [Alexa Skills Terms of Use](https://github.com/luizmiranda7/loopero/blob/main/terms_of_use_alexa_skills.md), as well as the [Alexa Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740) and the [Privacy Policies](https://www.amazon.com/privacy) by Amazon Digital Services LLC (with its affiliates, “Amazon”).
 
